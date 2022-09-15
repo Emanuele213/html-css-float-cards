@@ -15,10 +15,12 @@
     margin-bottom: 30px;
     margin-top: 15px;
     color: violet;
+    font-family: 'Fredoka', sans-serif
 }
 
 .p-center{
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .persone{
@@ -28,6 +30,7 @@
     margin: 1rem;
     background-color: black;
     color: white;
+    box-shadow: 8px 8px 10px 8px lightgray;
 }
 
 .img-size{
@@ -38,11 +41,15 @@
 
 .h2-size{
     font-size: 15px;
-    margin-top: 5px;
+    margin-top: 7px;
     margin-bottom: 6px;
+}
+
+.spazio{
+    margin-top: 8px;
 }
 
 .color-blue{
     color: cornflowerblue;
-    margin-top: 10px;
+    margin-top: 6px;
 }
