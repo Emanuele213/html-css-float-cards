@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteiner{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h1-font{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    color: violet;
+}
+
+.p-center{
+    text-align: center;
+}
+
+.persone{
+    float: left;
+    width: 33.3%;
+    width: calc(33.3% - 2rem);
+    margin: 1rem;
+    background-color: black;
+    color: white;
+}
+
+.img-size{
+    width: 80px;
+    float: left;
+    margin-right: 10px;
+}
+
+.h2-size{
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 6px;
+}
+
+.color-blue{
+    color: cornflowerblue;
+    margin-top: 10px;
+}
