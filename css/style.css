@@ -53,3 +53,9 @@
     color: cornflowerblue;
     margin-top: 6px;
 }
+
+.clearfix::after{
+    content: ''; 
+    display: table;
+    clear: both; 
+}
